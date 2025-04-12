@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Box Lottery Telegram Mini App
+
 
 Мини-приложение для Telegram, позволяющее пользователям открывать кейсы (боксы) и выигрывать призы в TON.
 
@@ -127,5 +126,4 @@ yarn start
 
 Разработано с ❤️ для Telegram и TON 
 =======
-# box-tg-miniapp
->>>>>>> 122842e83ee596ce628d00438782e40d8aaba908
+
