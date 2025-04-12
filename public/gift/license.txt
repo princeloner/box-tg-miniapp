@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gift
+* source:	https://sketchfab.com/3d-models/gift-f3d8abcd3b9442f39a9a2017d59b56a1
+* author:	gorzi (https://sketchfab.com/gorzi90)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gift" (https://sketchfab.com/3d-models/gift-f3d8abcd3b9442f39a9a2017d59b56a1) by gorzi (https://sketchfab.com/gorzi90) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
